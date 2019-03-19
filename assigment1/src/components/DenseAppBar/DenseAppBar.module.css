@@ -1,0 +1,6 @@
+.counter {
+    float: left;
+    min-height: 100%;
+    background:red;
+    width: 25%;
+}

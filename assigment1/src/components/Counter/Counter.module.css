@@ -1,0 +1,28 @@
+.counter {
+    margin: 3% 5% 10% 1.5%;
+    border: 1px solid #666;
+    width: 30%;
+    height:100%;
+    padding: 10px;
+    background-color: #fff;
+    font-size: 100px;
+    float: left;
+    min-height: 100%;
+}
+
+.counter span { 
+    display:block; 
+    margin: auto;
+    text-align: center; 
+    padding: 10%;
+}
+
+div .counter button {
+    display:block;
+    margin: auto;  
+    padding: 10px;
+    border: 0px solid #fff;
+    color: #000;    
+    background: #fff;    
+    cursor: pointer;
+}

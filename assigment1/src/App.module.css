@@ -1,0 +1,12 @@
+body {
+  background-color: #D3D3D3;
+}
+.container {
+  height: 100%;
+  width: 100%;
+}
+
+.name { 
+  color: #000000;
+  background-color: #D3D3D3;
+}
